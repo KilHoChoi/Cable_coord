@@ -15,7 +15,7 @@ import pandas as pd
 # 아래 Data inputs 상수들을 Dataframe 값과 연결시킨다.
 ############################################################################
 
-filename = 'C:/Users/yoosa/Desktop/Github/Tools-test/CableConfig_INP.xlsx'
+filename = 'CableConfig_INP.xlsx'
 #파일 경로 복사해서 사용시 \를 /로 수정
 
 
