@@ -20,6 +20,13 @@ import numpy as np
 import math
 import sympy as sp
 
+############################################################################ 
+# Read input excel file (in charge of SNYU)
+# CableConfig_INP.xlsx 의 값 가져온다 
+# 아래 Data inputs 상수들을 Dataframe 값과 연결시킨다. 
+############################################################################
+
+
 ## Data inputs
 g1 = 0.020981       # initial roadway grade
 g2 = -0.010898      # final roadway grade 
